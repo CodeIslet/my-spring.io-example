@@ -50,7 +50,7 @@
     - Spring Session Hazelcast
 
 
-- Spring HATEOAS
+- Spring HATEOAS [spring-hateoas-0.1.0]
 
 - Spring REST Docs
 
