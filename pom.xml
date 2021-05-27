@@ -14,6 +14,7 @@
         <module>spring-session-jdbc</module>
         <module>spring-session-redis</module>
         <module>spring-webflux</module>
+        <module>spring-hateoas</module>
     </modules>
 
     <parent>
